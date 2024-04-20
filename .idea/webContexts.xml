@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/sidebar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/adminHome.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/addBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/bookDetails.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/updateBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/comment.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/components/Bookcard.jsp" value="file://$PROJECT_DIR$/src/main/webapp/components" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/components/heroSection.jsp" value="file://$PROJECT_DIR$/src/main/webapp/components" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/error.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/checkout.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/user/navbar.jsp" value="file://$PROJECT_DIR$/src/main/webapp/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/user/profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/user" />
+      </map>
+    </option>
+  </component>
+</project>
